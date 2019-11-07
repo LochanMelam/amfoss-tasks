@@ -24,6 +24,8 @@ task_13(project_eular)
 
 after practacing for two days i was able to complete these problems.
 
+task_8(captcha_breaking)
 
+for doing this i installed pytesseract, which reads the script from image and pillow, which gives the access to open an image to read the script
 
  
