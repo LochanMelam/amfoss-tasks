@@ -1,11 +1,10 @@
 # amfoss-tasks
 •task_0(installing ubuntu)
 it took some time for installing ubuntu as i faced some errors while installing it for the first time and sucessfully installed it in my second atempt
-## 
+
 •task_1(staring am-foss repositories)
 
-this task was an absolute cake wake just finshed it by following the steps given
-
+this task was an absolute cake wake just finshed it by following the steps given          
 •task_2(problem solving)
 
 completed this task after learning the basic syntax of python from  #automate the boring stuff with python and practiced some basic problems
