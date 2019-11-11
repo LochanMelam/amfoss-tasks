@@ -21,7 +21,8 @@ there were no issues faced while solving these problems
 
 •task_3(web_scrapping_using_ruby)
 
-it took me almost 1 whole week to complete this task. i spent 1 day by googling for learning the requierd things for doing this task
+it took me almost 1 whole week to complete this task. i spent 1 day for googling to know the things that are to be learnt to do this task.
+Then 
 installed ruby  from its official web_site and installed gems nokogiri,open-uri learnt the basic syntax of ruby and  uses of nokogiri and open-uri gems. learnt about xpath selecters and how to execute them using in nokogiri library finally finished it after figuring the right xpath.
 
 ---------------------------------------------------------------------------------------------------------------------------------
