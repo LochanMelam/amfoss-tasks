@@ -36,4 +36,7 @@ Then installed ruby  from its official web_site and installed gems nokogiri,open
 
 •for doing this i installed pytesseract, which reads the script from image and pillow, which gives the access to open an image to read the script
 
+ -------------------------------------------------------------------------------------------------------------------------------
+ **task_9**(personal_website)
  
+ •created a personal website after forking the repository that is given as reference 
