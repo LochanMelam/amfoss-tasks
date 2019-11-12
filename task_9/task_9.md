@@ -1,1 +1,1 @@
-./https://lochanmelam.github.io
+../https://lochanmelam.github.io
