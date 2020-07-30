@@ -6,7 +6,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------
 **task_1**(staring am-foss repositories)
 
-this task was an absolute cake wake just finshed it by following the steps given  
+this task was an absolute cake walk just finshed it by following the steps given  
 
 ---------------------------------------------------------------------------------------------------------------------------------
 **task_2**(problem solving)
