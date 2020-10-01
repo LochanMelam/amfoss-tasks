@@ -6,7 +6,7 @@ for i in range(0,n):
     lis.append(expression) 
 for j in range(0,len(lis)):
     if lis[j]=="++X" or lis[j]=="X++":
-        c=c+1
+        c+=1
     else:
-        c=c-1
+        c-=1
 print(c)
