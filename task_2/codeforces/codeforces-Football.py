@@ -8,8 +8,8 @@ for i in range(0,len(n)):
             c=c+0
     else:
         c=c+0
-c=c+1
+c+=1
 if c<=6:
-    print("no")
+    print("No")
 else:
-    print("yes")
+    print("Yes")
